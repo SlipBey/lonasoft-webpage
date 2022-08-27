@@ -1,0 +1,18 @@
+{
+	"home": "Anasayfa",
+	"about": "Hakkımızda",
+	"project": "Projelerimiz",
+	"contact": "İletişim",
+	"other": "Diğer",
+	"pages": "Sayfalar",
+	"404": "404 Sayfa Yok",
+
+	"hero_title": "Yazı İşte",
+	"404_title": "Sayfa Yok",
+
+	"hero_text": "Buda açıklama işe",
+	"about_text": "Böyle html kullanabileceğin bir yazı buda. Misal <b>ozi</b> <br/> kıçını ısırırım.",
+	"project_text": "Böyle html kullanabileceğin bir yazı buda. Misal <b>ozi</b> <br/> kıçını ısırırım.",
+	"404_text": "Aradığınız sayfa yok yada silinmiş.",
+	"footer_text": "Yazılımda ki amacımız; İnsanlara yardımcı olma, projelerine katkıda bulunma, Türkiye'ye yeni yazılımcılar kazandırma ve insanlara yazılımı sevdirmek amaçlarımızdır."
+}

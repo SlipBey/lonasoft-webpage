@@ -1,0 +1,18 @@
+{
+	"home": "Home Page",
+	"about": "About Us",
+	"project": "Our Projects",
+	"contact": "Contact",
+	"other": "Other",
+	"pages": "Pages",
+	"404": "404 Page Not Found",
+
+	"hero_title": "Here is the article",
+	"404_title": "Not Found",
+
+	"hero_text": "Buddha Explanation",
+	"about_text": "Here is an article where you can use html like this. For example <b>ozi</b> <br/> I bite your ass.",
+	"project_text": "Here is an article where you can use html like this. For example <b>ozi</b> <br/> I bite your ass.",
+	"404_text": "The page you are looking for does not exist or has been deleted.",
+	"footer_text": "Our purpose in software; Our aims are to help people, contribute to their projects, bring new software developers to Turkey and make people love software."
+}
